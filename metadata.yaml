@@ -1,0 +1,35 @@
+_repo: Parents-and-children_72445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, Charlotte M. (Charlotte Maria)
+    alias: Mason, Charlotte Maria Shaw
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '53773'
+    url: http://www.gutenberg.org/2009/agents/53773
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mason
+description: '"A sequel to ''Home education''"'
+gutenberg_issued: '2023-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72445'
+language: en
+pgterms:marc904: https://archive.org/details/b2195916x
+pgterms:marc905: 20210923070929mason
+pgterms:marc906: '1897'
+pgterms:marc907: UK
+production_note: Carol Brown, Tim Lindell, Turgut Dincer and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aLondon :$bKegan Paul, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child rearing'
+- !lcsh 'Education -- Parent participation'
+- !lcc 'LC'
+- GITenberg
+title: Parents and children
+url: http://www.gutenberg.org/ebooks/72445
