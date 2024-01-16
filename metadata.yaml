@@ -1,5 +1,8 @@
 _repo: Parents-and-children_72445
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72445-h/images/cover.jpg
 creator:
   author:
     agent_name: Mason, Charlotte M. (Charlotte Maria)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53773
     wikipedia: https://en.wikipedia.org/wiki/Charlotte_Mason
 description: '"A sequel to ''Home education''"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72445#Parents-and-children
 gutenberg_issued: '2023-12-17'
 gutenberg_type: Text
 identifiers:
